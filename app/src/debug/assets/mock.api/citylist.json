@@ -1,0 +1,13 @@
+{
+  "message": "City List Succeess",
+  "cityList": [
+    {
+      "cityId": 1,
+      "cityName": "Ahmedabad"
+    },
+    {
+      "cityId": 2,
+      "cityName": "Rajkot"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/button_singup"
+    android:padding="@dimen/_5sdp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/bg_tab_red"
+        android:orientation="horizontal"
+        android:padding="@dimen/_1sdp"
+        android:weightSum="2">
+
+        <Button
+            android:id="@+id/invoice_tab_automatic"
+            style="?android:attr/buttonBarButtonStyle"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/left_selected_tab"
+            android:text="@string/automatic"
+            android:textColor="@color/button_singup" />
+
+        <Button
+            android:id="@+id/invoice_tab_manual"
+            style="?android:attr/buttonBarButtonStyle"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/right_unselected_tab"
+            android:text="@string/manual"
+            android:textColor="@color/white" />
+
+
+    </LinearLayout>
+
+
+</LinearLayout>

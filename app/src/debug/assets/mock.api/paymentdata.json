@@ -1,0 +1,33 @@
+{
+  "message": "Category List Success!!",
+  "invoiceCategoryList": [
+    {
+      "invoiceCategoryId": 1,
+      "invoiceCategoryName": "proprietary"
+    },
+    {
+      "invoiceCategoryId": 2,
+      "invoiceCategoryName": "partnership"
+    }
+  ],
+  "PaymentModeList": [
+    {
+      "paymentModeId": 1,
+      "paymentType": "Cash"
+    },
+    {
+      "paymentModeId": 1,
+      "paymentType": "Cheque"
+    }
+  ],
+  "rateOfContractList": [
+    {
+      "ratOfContractId": 1,
+      "rateOfContractName": "Source And Destination"
+    },
+    {
+      "ratOfContractId": 2,
+      "rateOfContractName": "Minimum Km"
+    }
+  ]
+}

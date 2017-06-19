@@ -1,0 +1,49 @@
+{
+  "message": "get trip booking Success",
+  "trips": [
+    {
+      "id": 1,
+      "tripId": "ABC123",
+      "tripStartStartDate": "18/06/2017",
+      "tripEndDate": "22/06/2017",
+      "pickupGeoLocation": "12.56655,23.898989",
+      "dropGeoLocation": "12.56655,23.898989",
+      "tripStatus": 1,
+      "guestDetails": {
+        "guestId": 1,
+        "guestName": "Xyz",
+        "guestContactNo": "1234567890"
+      },
+      "driverDetails": {
+        "driverId": 2,
+        "driverName": "Ram kaka"
+      },
+      "carDetails": {
+        "carId": 1,
+        "carNumber": "GJ-01-MN-1234 "
+      }
+    },
+    {
+      "id": 2,
+      "tripId": "BDC123",
+      "tripStartStartDate": "18/06/2017",
+      "tripEndDate": "22/06/2017",
+      "pickupGeoLocation": "12.56655,23.898989",
+      "dropGeoLocation": "12.56655,23.898989",
+      "tripStatus": 2,
+      "guestDetails": {
+        "guestId": 1,
+        "guestName": "Xyz",
+        "guestContactNo": "1234567890"
+      },
+      "driverDetails": {
+        "driverId": 2,
+        "driverName": "Ram kaka"
+      },
+      "carDetails": {
+        "carId": 1,
+        "carNumber": "GJ-01-MN-1234 "
+      }
+    }
+  ]
+} 

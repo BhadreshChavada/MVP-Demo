@@ -1,0 +1,13 @@
+{
+  "message": "Verificatio success.",
+  "token": " Luglmpoekjdfmg78",
+  "userDetails": {
+    "userId": 1,
+    "username": "Pratik",
+    "fullName": "Pratik Soni",
+    "contactNo": "9016593399",
+    "emailId": "pratik.dev@emxcelsolutions.com",
+    "avatar": "profile.jpg",
+    "userTenantId": 18
+  }
+}

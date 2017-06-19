@@ -1,0 +1,29 @@
+{
+  "message": "List of Available Cars!!",
+  "carList": [
+    {
+      "carId": 1,
+      "carNumber": "GJ-01-12-1234",
+      "carType": "SUV",
+      "carName": "Innova",
+      "bookedTime": "10:15",
+      "bufferedTime": "12:15",
+      "availableTime": "13:10"
+    },
+    {
+      "carId": 2,
+      "carNumber": "GJ-01-22-1234",
+      "carType": "SUV",
+      "carName": "Innova",
+      "bookedTime": "12:00",
+      "bufferedTime": "15:20",
+      "availableTime": "20:00"
+    }
+  ],
+  "driverList": [
+    {
+      "driverId": 1,
+      "driverName": "AAA"
+    }
+  ]
+}

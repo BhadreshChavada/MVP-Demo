@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">DEApp</string>
+    <string name="deskexecutive">Desk Executive</string>
+    <string name="powertoyou">POWER TO YOU</string>
+    <string name="mobileno">Mobile Number</string>
+    <string name="password">Password</string>
+    <string name="signin">Sign In</string>
+    <string name="enterotptext">Please Enter your OTP below</string>
+    <string name="verifiy_otp">Verify Your OTP</string>
+    <string name="verify">Verify</string>
+    <string name="resend_otp"><u>Resend OTP</u></string>
+
+    <string-array name="navigation_drawer_items_array">
+        <item>Book Your Trip</item>
+        <item>Tracking</item>
+        <item>Your Trip</item>
+        <item>Driver Info</item>
+        <item>Rate us</item>
+        <item>Reviews</item>
+        <item>Payment</item>
+        <item>Emergency Contact</item>
+        <item>Logout</item>
+    </string-array>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="tripid">Trip Id</string>
+    <string name="car_number">Car Number</string>
+    <string name="car_name">Car Name</string>
+    <string name="car_type">Car Type</string>
+    <string name="driver_name">Driver Name</string>
+    <string name="assign">Assign</string>
+    <string name="booking_history">Booking History</string>
+    <string name="guest_name">Guest Name</string>
+    <string name="guest_contact_no">Guest Contact no.</string>
+    <string name="trip_start_date">Trip Start Date</string>
+    <string name="trip_end_date">Trip End Date</string>
+    <string name="status">Status</string>
+    <string name="edit">Edit</string>
+    <string name="cancel_trip">Cancel Trip</string>
+    <string name="change_car_driver">Change Car Driver</string>
+    <string name="tracking">Tracking</string>
+    <string name="cancel">Cancel</string>
+    <string name="update">Update</string>
+    <string name="cancel_booking_message">Are you confirm Cancel Booking</string>
+    <string name="cancel_booking_confirm_message">Your request has been confirmed to cancel and</string>
+    <string name="confirm">CONFIRM</string>
+    <string name="from">From</string>
+    <string name="select_date">Select Date</string>
+    <string name="to">T0</string>
+    <string name="search">Search</string>
+    <string name="booked">Booked</string>
+    <string name="buffer_time">Buffer Time</string>
+    <string name="available">Available</string>
+    <string name="book_now">Book Now</string>
+    <string name="automatic">Automatic</string>
+    <string name="manual">Manual</string>
+    <string name="booking_for">Booking For :-</string>
+    <string name="customer_name">Customer Details</string>
+    <string name="username">User Name</string>
+    <string name="email">Email ID</string>
+    <string name="travel_information">Travel Information</string>
+    <string name="pickupdate_time">Pick Up Date &amp; Time</string>
+    <string name="pickup_location">Pick Up Location</string>
+    <string name="landmark">Landmark</string>
+    <string name="dropdate_time">Drop Date &amp; Time</string>
+    <string name="drop_location">Drop Location</string>
+    <string name="pincode">Pincode</string>
+    <string name="debits">Debits</string>
+    <string name="remark">Remarks</string>
+    <string name="payment_mode">Payment Mode</string>
+</resources>

@@ -1,0 +1,13 @@
+{
+  "message": "Car List Succeess",
+  "carTypeList": [
+    {
+      "carId": 1,
+      "carType": "Swift"
+    },
+    {
+      "carId": 2,
+      "carType": "Innova"
+    }
+  ]
+}

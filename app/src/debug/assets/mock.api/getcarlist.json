@@ -1,0 +1,59 @@
+{
+  "message": "Car list Success",
+  "carList": [
+    {
+      "carId": 1,
+      "carNumber": "GJ01-MN-1234",
+      "carName": "Innova",
+      "carType": {
+        "id": 1,
+        "type": "SUV"
+      },
+      "driverAssignedStatus": 1,
+      "driverDetails": {
+        "driverId": 17,
+        "driverName": "Ram kaka"
+      }
+    },
+    {
+      "carId": 2,
+      "carNumber": "GJ01-MN-5234",
+      "carName": "Innova",
+      "carType": {
+        "id": 1,
+        "type": "SUV"
+      },
+      "driverAssignedStatus": 0
+    },
+    {
+      "carId": 3,
+      "carNumber": "GJ01-MN-7234",
+      "carName": "Innova",
+      "carType": {
+        "id": 1,
+        "type": "SUV"
+      },
+      "driverAssignedStatus": 0
+    },
+    {
+      "carId": 4,
+      "carNumber": "GJ01-MN-9234",
+      "carName": "Innova",
+      "carType": {
+        "id": 1,
+        "type": "SUV"
+      },
+      "driverAssignedStatus": 0
+    },
+    {
+      "carId": 5,
+      "carNumber": "GJ01-MN-4234",
+      "carName": "Innova",
+      "carType": {
+        "id": 1,
+        "type": "SUV"
+      },
+      "driverAssignedStatus": 0
+    }
+  ]
+}
